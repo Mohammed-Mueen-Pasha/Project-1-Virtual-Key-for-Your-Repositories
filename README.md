@@ -5,7 +5,7 @@ Project objective:
 As a Full Stack Developer, complete the features of the application by planning the development in terms of sprints and then push the source code to the GitHub repository. As this is a prototyped application, the user interaction will be via a command line. 
 
  
-**Sprints:
+**Sprints:**
 
 **Sprint number: 3 (Timebox 1 week 1 sprint) 
 Product story : Collect the requirement such that the user story is:
@@ -14,18 +14,17 @@ Negotiable
 Valuable
 Estimable
 Small
-Testable.
+Testable.**
 
-**In each sprint create a reasonable product. Design product paradigm, design modules, integrate modules and test.
+**In each sprint create a reasonable product. Design product paradigm, design modules, integrate modules and test.**
 
 **Sprint planning with Product Owner, Scrum Master and Development Team.
-**
-**Daily Scrum to discuss and evaluate the progress.
+Daily Scrum to discuss and evaluate the progress.**
 
 **Sprint Review: Elicit feedback and foster collaborations. End of each week.
-At the end, the product is presented to the product owner for acceptance or refusal****.
+At the end, the product is presented to the product owner for acceptance or refusa**l
 
-**Sprint Retrospective : Meeting to plan and decide on enhancing and integrating in the next project.********
+**Sprint Retrospective : Meeting to plan and decide on enhancing and integrating in the next project.**
 Background of the problem statement:
 
 Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digitize their products and chose LockedMe.com as their first project to start with. You’re asked to develop a prototype of the application. The prototype of the application will be then presented to the relevant stakeholders for the budget approval. Your manager has set up a meeting where you’re asked to present the following in the next 15 working days (3 weeks): 
